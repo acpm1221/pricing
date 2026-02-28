@@ -76,7 +76,7 @@ input:checked + .slider:before {
 }
 
 .card-container {
-  height: 600px;
+  height: 70%;
   overflow: auto;
 }
 
