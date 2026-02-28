@@ -75,14 +75,7 @@ input:checked + .slider:before {
   transform: translateX(24px);
 }
 
-.card-container {
-  height: 70%;
-  overflow: auto;
-}
 
-.card-container::-webkit-scrollbar {
-  display: none;
-}
 
 /* CARDS */
 .card {
