@@ -177,6 +177,7 @@ button {
   }
   .container {
     max-width: 1100px;
+    margin-top: -100px;
   }
 
   .cards {
