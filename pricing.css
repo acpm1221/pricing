@@ -22,9 +22,9 @@ body {
   justify-content: center;
   align-items: center;
   background: url("./images/bg-top.svg");
-  background-size: 200px;
+  background-size: 300px;
   background-repeat: no-repeat;
-  background-position: top right 350px;
+  background-position: top right ;
 }
 
 .container {
