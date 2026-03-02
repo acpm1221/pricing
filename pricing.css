@@ -24,7 +24,7 @@ body {
   background: url("./images/bg-top.svg");
   
   background-repeat: no-repeat;
-  background-position: top right ;
+  background-position: top right -200px ;
 }
 
 .container {
